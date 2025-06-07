@@ -73,6 +73,4 @@ Ps : Первая console cd Recipes - python manage.py runserver / Вторая
 
 
 
-### :fire: Мой статус :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mellmoy&theme=radical&locale=ru)](https://git.io/streak-stats)
 
